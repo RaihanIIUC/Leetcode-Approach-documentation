@@ -1,1 +1,13 @@
 
+first we need some variables we call them ,
+arraypocket = {} ,remains .
+
+1) the main logic behind this problem is we derive remains = target - nums[i] 
+to identify if we have any previous number in our pocket that we have 
+so that we doesn't need to derive it from the target value , we
+check it by remains in pocket :
+return [pocket[remains] , i]
+if not it means the value is not in our dictionary 
+so we need to store it in our dictonary .
+
+our main logic is done , now we are about to return our pocket value as output.
