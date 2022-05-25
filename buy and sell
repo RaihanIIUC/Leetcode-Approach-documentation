@@ -1,0 +1,10 @@
+we approaches this problem by the core logic of the problem 
+and is : buy = 0 < prices[i] . if profit = prices[i] - buy and after we update the today's buy on the basis of 
+today's prices[i] .
+the main thing of there is that we can't cross  our limit of buying without selling or i mean earning 
+any money . when ever we can earn we can then think how much money i can afford and earn by selling the product
+that make it possible to have much money on my pocket. 
+todayBuy <= TodaySell 
+todayProfit = TodaySell - Todaybuy
+then we get the required things.
+It's actually like saving account approaches.
