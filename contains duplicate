@@ -1,0 +1,5 @@
+it's main logic is to tackle the duplicate 
+track , if and only if there is only any same value repeat it can be
+one value repeation for one time or multiple value repeation for multiple 
+, triple etc.
+we can use set or hashMap to track the value repeation . 
